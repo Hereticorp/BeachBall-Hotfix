@@ -13,11 +13,11 @@
 
 <h3>As a Bookmarklet</h3>
 <ol>
-<li>Paste the <em>contents</em> (not the url) of <a href="https://raw.github.com/Hereticorp/BeachBall-Hotfix/Hotfix/BeachBall_Bookmark_Loader.js">http://xenko.github.io/BeachBall/BeachBall_Bookmark_Loader.js</a> into a bookmark.</li>
+<li>Paste the <em>contents</em> (not the url) of <a href="https://raw.github.com/Hereticorp/BeachBall-Hotfix/Hotfix/BeachBall_Bookmark_Loader.js">https://raw.github.com/Hereticorp/BeachBall-Hotfix/Hotfix/BeachBall_Bookmark_Loader.js</a> into a bookmark.</li>
 <li>Load Sandcastle Builder.</li>
 <li>Load the bookmark.</li>
 </ol>
 
-<p>Use the following like to access the BeachBall source code: <a href="https://raw.github.com/Hereticorp/BeachBall-Hotfix/Hotfix/beachball-hotfix.js">http://xenko.github.io/BeachBall/BeachBall.js</a>
+<p>Use the following like to access the BeachBall source code: <a href="https://raw.github.com/Hereticorp/BeachBall-Hotfix/Hotfix/beachball-hotfix.js">https://raw.github.com/Hereticorp/BeachBall-Hotfix/Hotfix/beachball-hotfix.js</a>
 </body>
 </html>
